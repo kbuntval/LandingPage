@@ -109,13 +109,13 @@ button {
 .random-images {
     width: 180px;
     height: 180px;
-    border: 4px solid #3882f6;
+    border: 2px solid #3882f6;
     border-radius: 5px;
     margin-bottom: 5px;
 }
 
 .caption {
-    text-align: center;
+    text-align: justify;
     max-width: 180px;
 }
 
